@@ -1,4 +1,4 @@
-### 👋 Leah Riffell | 松木真理子 (she / her)
+## 👋 Leah Riffell | 松木真理子 (she / her)
 
 _Currently:_\
 👩🏻‍💻Studying backend engineering at the Turing School of Software and Design (graduating January 2021)
