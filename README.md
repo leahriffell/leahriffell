@@ -1,11 +1,12 @@
 ![Leah Riffell](https://images.squarespace-cdn.com/content/5a6d4a31f6576ebde0e694d9/1552347357287-R50178C8P602V6SDBETH/Port+Header+horizontal.png?content-type=image%2Fpng)
 
-###### Pronouns: she/her 
+###### Pronouns: she/her
 
 ### Currently:
 👩🏻‍💻 Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating January 2021)
 
 ### Previously:
+🚸 Kameron's employee
 🎨 UX + UI Designer\
 📝 Project Manager\
 📈 Data Analyst\
