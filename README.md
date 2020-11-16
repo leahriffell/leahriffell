@@ -16,5 +16,5 @@ _[view my resume](https://static1.squarespace.com/static/5a6d4a31f6576ebde0e694d
 ### 📫 Let's get in touch!
 Email: leah.riffell@gmail.com\
 Linkedin: [https://www.linkedin.com/in/leah-riffell/](https://www.linkedin.com/in/leah-riffell/)\
-Website: [leahriffell.com](www.leahriffell.com)
+Website: [leahriffell.com](https://www.leahriffell.com)
 
