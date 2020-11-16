@@ -9,7 +9,7 @@
 🎨 UX + UI Designer\
 📝 Project Manager\
 📈 Data Analyst\
-_[view my resume](https://static1.squarespace.com/static/5a6d4a31f6576ebde0e694d9/t/5eaf3f02c6f3f079be314eb2/1588543234294/Leah+Riffell+Resume+April+2020.pdf)_
+_[view my resume](https://static1.squarespace.com/static/5a6d4a31f6576ebde0e694d9/t/5fb2d41d41fecd36c154471e/1605555230622/Leah+Riffell+Dev+Resume.pdf)_
 
 [![Leah's github stats](https://github-readme-stats.vercel.app/api?username=leahriffell)](https://github.com/leahriffell/github-readme-stats)
 
