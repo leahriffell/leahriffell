@@ -3,7 +3,7 @@
 ###### Pronouns: she/her 
 
 ### Currently:
-👩🏻‍💻 Studying backend engineering at [Turing School of Software and Design](https://turing.io/) (graduating January 2021)
+I'll be starting an exciting backend engineering opportunity in May, but please let me know if I can help you before then! 
 
 ### Previously:
 🎨 UX + UI Designer\
