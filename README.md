@@ -3,7 +3,7 @@
 ###### Pronouns: she/her 
 
 ### Currently:
-I'll be starting an exciting backend engineering opportunity in May, but please let me know if I can help you before then! 
+Backend Engineering Intern @ Shopify
 
 ### Previously:
 🎨 UX + UI Designer\
